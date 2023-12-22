@@ -1,0 +1,12 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/selected"
+        android:state_selected="true"
+        android:width="32dp"
+        android:height="32dp" />
+
+    <item
+        android:drawable="@drawable/unselected"
+        android:width="24dp"
+        android:height="24dp" />
+</selector>

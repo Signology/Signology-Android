@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="16dp">
+
+
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/rv_history_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.5"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/tv_history_predict_detail"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:text="@string/predict"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/rv_history_image" />
+
+            <ImageView
+                android:id="@+id/ivSpeechHistory"
+                android:layout_width="46dp"
+                android:layout_height="26dp"
+                android:layout_marginStart="8dp"
+                app:layout_constraintStart_toEndOf="@+id/tv_history_predict_detail"
+                app:layout_constraintTop_toTopOf="@+id/tv_history_predict_detail"
+                app:srcCompat="@drawable/ic_sound" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <!-- Add more views as needed -->
+
+    </LinearLayout>
+
+</ScrollView>

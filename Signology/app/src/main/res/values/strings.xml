@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Signology</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="image_login">login image</string>
+    <string name="login">Login</string>
+    <string name="error_email">email error</string>
+    <string name="error_pass">password error\n</string>
+    <string name="title_login_page">Login to your account</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_error">Login error</string>
+    <string name="image_welcome">Welcome Image</string>
+    <string name="title_welcome_page">Connect Wherever You Are</string>
+    <string name="message_welcome_page">With Us</string>
+    <string name="register">Register</string>
+    <string name="image_register">Register image</string>
+    <string name="title_signup_page">Let\'s Connect</string>
+    <string name="name">Name</string>
+    <string name="image_signup">Register image\n</string>
+    <string name="home">Home</string>
+    <string name="camera">Translate\n</string>
+    <string name="profile">Profile</string>
+    <string name="title_activity_root">RootActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="permissions">Permissions</string>
+    <string name="tv_dialog_message">Are you Sure you Want to\n Log Out?</string>
+    <string name="letter">letter</string>
+    <string name="app_latter">List Letter</string>
+    <string name="register_error">Register Error</string>
+    <string name="register_done">Register successful</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="letter_popup">Letter %s</string>
+    <string name="predict">Predict</string>
+
+
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="acc_type">Account Type: %s</string>
+    <string name="point">Point: %s</string>
+    <string name="premium_page">Premium Package</string>
+    <string name="back_button_description">Back button</string>
+    <string name="welcome_premium">Welcome to the club!🎉</string>
+    <string name="dialog_acc_free">Let\'s get started. Now you are using a free trial account with a total of 500 points. Where every time you translate sign language, 75 points will be deducted from your account. Do you want to upgrade your account? Check the package options now!</string>
+    <string name="dialog_acc_premium">Let\'s get started. Now you are using a premium individual account with duration of use is 1 month. You can see 7 recent translation history and translate more words. Do you want to extend your premium account? Check the package options now!</string>
+    <string name="acc_status">account status</string>
+    <string name="status">Your Package</string>
+    <string name="change_password_screen">Change Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="history_translate">History Translate</string>
+    <string name="history_translate_detail">Detail History Translate</string>
+    <string name="onboarding1">Click the camera icon on the home page</string>
+    <string name="onboarding2">Click the camera icon to take a picture and the upload icon when finished</string>
+    <string name="onboarding3">Wait for a while, then the translation result will appear</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_home1">Hi There,</string>
+    <string name="welcome_home2">Let\'s connect with more people.</string>
+    <string name="about_us">GET TO KNOW US BETTER</string>
+    <string name="lets_learn">Let’s go and learn sign language</string>
+    <string name="new_username">New Username</string>
+    <string name="save_changes">Save Changes</string>
+    <string name="upgrade_premium">Upgrade to Premium</string>
+    <string name="unlimited_words">Unlimited Words</string>
+    <string name="no_ads">No Ads</string>
+    <string name="subscribe">Subscribe</string>
+    <string name="view_package">View Package</string>
+    <string name="limit_point">Currently you don\'t have enough points to translate, subscribe to get unlimited translate access.</string>
+    <string name="until">Until: %s</string>
+    <string name="type_new_password">Type new password</string>
+    <string name="retype_password">Re-type new password</string>
+    <string name="current_password">Input current password</string>
+
+</resources>

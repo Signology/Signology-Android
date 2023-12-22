@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "396447326063",
+    "project_id": "login-register-ca312",
+    "storage_bucket": "login-register-ca312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396447326063:android:94ce31d7259848feca129a",
+        "android_client_info": {
+          "package_name": "com.adem.signology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyiMlxlQbI9ipSfV342F1Hv27yitpdR40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

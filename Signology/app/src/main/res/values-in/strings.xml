@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Signology</string>
+    <string name="title_activity_login">AktivitasMasuk</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Fragmen Pertama</string>
+    <string name="second_fragment_label">Fragmen Kedua</string>
+    <string name="next">Berikutnya</string>
+    <string name="previous">Sebelumnya</string>
+    <string name="image_login">Gambar Masuk</string>
+    <string name="login">Masuk</string>
+    <string name="error_email">kesalahan email</string>
+    <string name="error_pass">kesalahan kata sandi\n</string>
+    <string name="title_login_page">Masuk ke akun anda</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login_error">Kesalahan Masuk</string>
+    <string name="image_welcome">Selamat Datang Gambar</string>
+    <string name="title_welcome_page">Berkomunikasi dimanapun Anda Berada</string>
+    <string name="message_welcome_page">Dengan Kami</string>
+    <string name="register">Daftar</string>
+    <string name="image_register">Mendaftar gambar</string>
+    <string name="title_signup_page">Mari Terhubung</string>
+    <string name="name">Nama</string>
+    <string name="image_signup">Mendaftar gambar\n</string>
+    <string name="home">Beranda</string>
+    <string name="camera">Terjemahkan\n</string>
+    <string name="profile">Profil</string>
+    <string name="title_activity_root">RootActivity</string>
+    <string name="title_home">Rumah</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Pemberitahuan</string>
+    <string name="permissions">Izin</string>
+    <string name="tv_dialog_message">Apakah kamu yakin ingin melakukannya\n Keluar?</string>
+    <string name="letter">surat</string>
+    <string name="app_latter">Daftar Huruf</string>
+    <string name="register_error">Kesalahan Pendaftaran</string>
+    <string name="register_done">Pendafaran Berhasil</string>
+    <string name="edit_profile">Ubah Profil</string>
+    <string name="letter_popup">Huruf %s</string>
+    <string name="predict">Prediksi</string>
+
+
+
+    <string name="title_activity_main">Aktivitas Utama</string>
+    <string name="acc_type">Jenis Akun: %s</string>
+    <string name="point">Poin: %s</string>
+    <string name="premium_page">Paket Premium</string>
+    <string name="back_button_description">Tombol kembali</string>
+    <string name="welcome_premium">Selamat Bergabung!🎉</string>
+    <string name="dialog_acc_free">Mari kita mulai. Sekarang anda menggunakan akun trial gratis dengan total 500 poin.  Dimana setiap kali Anda menerjemahkan bahasa isyarat, 75 poin akan dipotong dari akun Anda.  Apakah Anda ingin meningkatkan akun Anda?  Periksa opsi paket sekarang!</string>
+    <string name="dialog_acc_premium">Mari kita mulai. Sekarang Anda menggunakan akun individu premium dengan durasi penggunaan 1 bulan.  Anda dapat melihat 7 riwayat terjemahan terkini dan menerjemahkan lebih banyak kata.  Apakah Anda ingin memperpanjang akun premium Anda?  Periksa opsi paket sekarang!</string>
+    <string name="acc_status">status akun</string>g
+    <string name="status">Paket Kamu</string>
+    <string name="change_password_screen">Ubah Kata Sandi</string>
+    <string name="change_password">Ubah Kata Sandi</string>
+    <string name="history_translate">Riwayat Terjemah</string>
+    <string name="history_translate_detail">Rincian Riwayat Terjemah</string>
+    <string name="onboarding1">Klik icon kamera pada halaman beranda</string>
+    <string name="onboarding2">Klik icon kamera untuk mengambil gambar dan icon pesawat jika sudah selesai</string>
+    <string name="onboarding3">Tunggu beberapa saat, lalu hasil terjemah akan tampil</string>
+    <string name="logout">keluar</string>
+    <string name="welcome_home1">Hai,</string>
+    <string name="welcome_home2">Mari terhubung dengan lebih banyak orang.</string>
+    <string name="about_us">KENALI KAMI LEBIH BAIK</string>
+    <string name="lets_learn">Ayo belajar bahasa isyarat</string>
+    <string name="new_username">Nama Pengguna Baru</string>
+    <string name="save_changes">Simpan Perubahan</string>
+    <string name="upgrade_premium">Upgrade ke Premium</string>
+    <string name="unlimited_words">Kata-kata Tak Terbatas</string>
+    <string name="no_ads">Tanpa Iklan</string>
+    <string name="subscribe">Berlangganan</string>
+    <string name="view_package">Lihat Paket</string>
+    <string name="limit_point">Saat ini poin kamu tidak cukup untuk melakukan translate, ayo berlangganan untuk mendapat kan access translate tak terbatas</string>
+    <string name="until">Sampai: %s</string>
+    <string name="type_new_password">Ketikan password Baru</string>
+    <string name="retype_password">Ketikan kembali password baru</string>
+    <string name="current_password">Masukan password saat ini</string>
+
+</resources>
